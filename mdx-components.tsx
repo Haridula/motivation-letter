@@ -63,6 +63,8 @@ const components: MDXComponents = {
       src={src}
       alt={alt}
       className="max-w-xs h-auto rounded-lg my-4"
+      width={200}
+      height={200}
     />
   ),            
 }
